@@ -1,0 +1,29 @@
+# --- Security / Credentials ---
+# Never upload your environment variables or secrets
+.env
+
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# --- IDEs / Editors ---
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+
+# --- OS Related ---
+.DS_Store
+Thumbs.db
+
+# --- Database / Logs ---
+*.log
+*.sql
