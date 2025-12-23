@@ -91,10 +91,3 @@ This project is open-source and available under the [MIT License](https://www.go
 ```
 
 ---
-
-### One Final Checklist Before You Upload:
-1.  **Update the Image Path:** In your `main.py`, make sure you changed the logo path to `logo_path = "logo.png"` so it loads correctly for everyone.
-2.  **Add Your Logo:** Make sure the `logo.png` I generated for you is saved in the same folder as `main.py`.
-3.  **Check `.gitignore`:** Ensure `.env` is inside your `.gitignore` so your real password stays private.
-
-```
